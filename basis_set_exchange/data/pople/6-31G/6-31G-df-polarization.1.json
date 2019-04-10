@@ -1,0 +1,376 @@
+{
+  "molssi_bse_schema": {
+    "schema_type": "component",
+    "schema_version": "0.1"
+  },
+  "description": "Polarization for 6-31G split-valence basis set",
+  "data_source": "Taken directly from frisch1984a, with Ne,Sc-Zn from G09",
+  "elements": {
+    "3": {
+      "references": [
+        "frisch1984a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "cartesian",
+          "region": "valence",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.1500000000E+00"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "4": {
+      "references": [
+        "frisch1984a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "cartesian",
+          "region": "valence",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.2600000000E+00"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "5": {
+      "references": [
+        "frisch1984a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "cartesian",
+          "region": "valence",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.5000000000E+00"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "6": {
+      "references": [
+        "frisch1984a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "cartesian",
+          "region": "valence",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.8000000000E+00"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "7": {
+      "references": [
+        "frisch1984a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "cartesian",
+          "region": "valence",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.1000000000E+01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "8": {
+      "references": [
+        "frisch1984a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "cartesian",
+          "region": "valence",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.1400000000E+01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "9": {
+      "references": [
+        "frisch1984a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "cartesian",
+          "region": "valence",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.1850000000E+01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "10": {
+      "references": [
+        "frisch1984a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "cartesian",
+          "region": "valence",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.2500000000E+01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "11": {
+      "references": [
+        "frisch1984a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "cartesian",
+          "region": "valence",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.1500000000E+00"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "12": {
+      "references": [
+        "frisch1984a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "cartesian",
+          "region": "valence",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.2000000000E+00"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "13": {
+      "references": [
+        "frisch1984a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "cartesian",
+          "region": "valence",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.2500000000E+00"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "14": {
+      "references": [
+        "frisch1984a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "cartesian",
+          "region": "valence",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.3200000000E+00"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "15": {
+      "references": [
+        "frisch1984a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "cartesian",
+          "region": "valence",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.4500000000E+00"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "16": {
+      "references": [
+        "frisch1984a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "cartesian",
+          "region": "valence",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.5500000000E+00"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "17": {
+      "references": [
+        "frisch1984a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "cartesian",
+          "region": "valence",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.7000000000E+00"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "18": {
+      "references": [
+        "gaussian09e01"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "cartesian",
+          "region": "valence",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.8500000000E+00"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
